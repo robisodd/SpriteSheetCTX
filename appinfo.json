@@ -1,0 +1,26 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "robisodd",
+    "longName": "SpriteSheet",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Font8.png",
+                "name": "FONT8",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "SpriteSheet",
+    "uuid": "057003ae-a2d8-453d-91fc-d580e403d337",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
